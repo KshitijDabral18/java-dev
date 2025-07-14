@@ -4,7 +4,6 @@ import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.example.entities.Train;
 
-import java.beans.ConstructorProperties;
 import java.io.File;
 import java.io.IOException;
 import java.util.List;
